@@ -1,0 +1,16 @@
+.tx-center table{
+    text-align: center;
+}
+
+.color-th{
+color: blueviolet;
+}
+
+.bg-td{
+    background-color: palevioletred;
+}
+
+.bg-green{
+    background-color: green;
+    color: #fff;
+}
